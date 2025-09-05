@@ -110,7 +110,7 @@ https://jsonplaceholder.typicode.com/posts/1
 
 Veja a resposta em JSON.
 
-Agora, teste o mesmo endpoint no Postman ou Insomnia.
+Agora, teste o mesmo endpoint no [Postman](https://github.com/pcfelias65-code/Automation/blob/Introdu%C3%A7%C3%A3o/0001a%20-%20Exerc%C3%ADcio%20PostMan.jpg) ou Insomnia.
 
 Anote a diferença entre o GET pelo navegador e pelo Postman.
 
