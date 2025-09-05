@@ -1,4 +1,4 @@
-📌 O que é uma API e Como Funciona
+# 📌 O que é uma API e Como Funciona
 
 Resumo rápido:
 Uma API (Application Programming Interface) é um conjunto de regras e padrões que permite que diferentes sistemas, aplicativos ou dispositivos se comuniquem entre si de forma segura, estruturada e previsível.
@@ -22,3 +22,5 @@ Cozinha → O sistema que processa os dados e devolve a resposta
 Sem o garçom, seria confusão total: você teria que entrar na cozinha, encontrar os ingredientes e fazer tudo sozinho.
 A API evita esse caos, padronizando como a comunicação acontece.
 
+## Veja Também
+[O que é uma API e como funciona.](https://github.com/pcfelias65-code/Automation/blob/Introdu%C3%A7%C3%A3o/0001%20-%20O%20que%20%C3%A9%20uma%20API%20e%20como%20Funciona.md)
