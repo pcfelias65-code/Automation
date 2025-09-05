@@ -58,33 +58,41 @@ Request Body	Dados enviados no corpo da requisição (POST)	{ "nome": "Paulo" }
 Response	Retorno da API, normalmente em JSON	{ "status": "ok" }
 Status Code	Código numérico indicando sucesso ou erro	200, 401, 404, 500
 
-#4. Tipos de APIs 🔄
-Tipo	Descrição	Exemplo
-REST	Baseada em recursos, usa HTTP e JSON. É a mais comum.	OpenWeather, Telnyx, Google Maps
-SOAP	Usa XML e um protocolo mais rígido.	Sistemas bancários antigos
-GraphQL	Permite pedir exatamente os dados que você quer.	GitHub GraphQL API
-Webhooks	Ao invés de pedir, você recebe notificações automáticas.	Pagamentos no Stripe
-gRPC	Usada para comunicação rápida entre microsserviços.	Google, Netflix
+# 4. Tipos de APIs 🔄
+
+| **Tipo**     | **Descrição**                                                | **Exemplo**                      |
+| ------------ | ------------------------------------------------------------ | -------------------------------- |
+| **REST**     | Baseada em recursos, usa HTTP e JSON. É a mais comum.        | OpenWeather, Telnyx, Google Maps |
+| **SOAP**     | Usa XML e um protocolo mais rígido.                          | Sistemas bancários antigos       |
+| **GraphQL**  | Permite pedir **exatamente** os dados que você quer.         | GitHub GraphQL API               |
+| **Webhooks** | Ao invés de pedir, você **recebe notificações automáticas**. | Pagamentos no Stripe             |
+| **gRPC**     | Usada para comunicação rápida entre microsserviços.          | Google, Netflix                  |
+
 
 Para o seu aprendizado inicial, REST APIs são o principal foco.
 
 # 5. Métodos HTTP Mais Usados 🌐
-Método	Função	Exemplo prático
-GET	Buscar dados	Buscar clima atual
-POST	Enviar dados	Criar novo usuário
-PUT	Atualizar tudo	Atualizar perfil completo
-PATCH	Atualizar parcialmente	Alterar só o e-mail
-DELETE	Remover dados	Excluir conta
+
+| **Método** | **Função**             | **Exemplo prático**       |
+| ---------- | ---------------------- | ------------------------- |
+| **GET**    | Buscar dados           | Buscar clima atual        |
+| **POST**   | Enviar dados           | Criar novo usuário        |
+| **PUT**    | Atualizar tudo         | Atualizar perfil completo |
+| **PATCH**  | Atualizar parcialmente | Alterar só o e-mail       |
+| **DELETE** | Remover dados          | Excluir conta             |
+
 
 # 6. Códigos de Resposta da API (Status Codes) 🟢🔴
 
-Código	Categoria	Significado
-200	✅ Sucesso	Tudo certo, resposta enviada
-201	✅ Criado	Novo recurso criado
-400	⚠️ Erro do cliente	Dados inválidos
-401	🔒 Não autorizado	Falta de autenticação
-404	❌ Não encontrado	Endpoint inexistente
-500	🔴 Erro interno	Problema no servidor
+| **Código** | **Categoria**      | **Significado**              |
+| ---------- | ------------------ | ---------------------------- |
+| **200**    | ✅ Sucesso          | Tudo certo, resposta enviada |
+| **201**    | ✅ Criado           | Novo recurso criado          |
+| **400**    | ⚠️ Erro do cliente | Dados inválidos              |
+| **401**    | 🔒 Não autorizado  | Falta de autenticação        |
+| **404**    | ❌ Não encontrado   | Endpoint inexistente         |
+| **500**    | 🔴 Erro interno    | Problema no servidor         |
+
 
 # 7. Benefícios do Uso de APIs 🚀
 
