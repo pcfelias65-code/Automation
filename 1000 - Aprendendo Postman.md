@@ -8,4 +8,6 @@ Ele permite enviar requisições HTTP (GET, POST, PUT, DELETE, etc.), visualizar
 
 ## Veja também:
 
-[Instalar o Postman]()
+[Instalar o Postman](https://github.com/pcfelias65-code/Automation/blob/Introdu%C3%A7%C3%A3o/1001%20-%20Instalar%20o%20Postman.md)
+
+
