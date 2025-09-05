@@ -88,15 +88,15 @@ Código	Categoria	Significado
 
 # 7. Benefícios do Uso de APIs 🚀
 
-Automação → Conecta ferramentas sem esforço manual.
+**Automação** → Conecta ferramentas sem esforço manual.
 
-Escalabilidade → Permite integrar novos sistemas rapidamente.
+**Escalabilidade** → Permite integrar novos sistemas rapidamente.
 
-Padronização → Comunicação estruturada e previsível.
+**Padronização** → Comunicação estruturada e previsível.
 
-Reuso → Várias aplicações podem usar a mesma API.
+**Reuso** → Várias aplicações podem usar a mesma API.
 
-Produtividade → Economiza tempo no desenvolvimento.
+**Produtividade** → Economiza tempo no desenvolvimento.
 
 # 8. Exercício Prático para Fixar 🧠
 
@@ -114,15 +114,15 @@ Agora, teste o mesmo endpoint no Postman ou Insomnia.
 
 Anote a diferença entre o GET pelo navegador e pelo Postman.
 
-Resumo Final 🏁
+# Resumo Final 🏁
 
 Uma API é como um garçom entre o cliente e a cozinha:
 
-Ela recebe pedidos estruturados.
+- Ela recebe pedidos estruturados.
 
-Entende o que você quer.
+- Entende o que você quer.
 
-Retorna exatamente os dados que você precisa.
+- Retorna exatamente os dados que você precisa.
 
 Entender APIs é o primeiro passo para dominar automação, integração de sistemas e ferramentas como n8n.
 Quanto mais você praticar, mais natural essa comunicação entre sistemas vai parecer.
