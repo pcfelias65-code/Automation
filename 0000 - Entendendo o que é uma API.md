@@ -28,4 +28,7 @@ A API evita esse caos, padronizando como a comunicação acontece.
 
 
 
-[🏡](https://github.com/pcfelias65-code/Automation/blob/Introdu%C3%A7%C3%A3o/README.md)  [⏩ O que é uma API e como funciona.](https://github.com/pcfelias65-code/Automation/blob/Introdu%C3%A7%C3%A3o/0001%20-%20O%20que%20%C3%A9%20uma%20API%20e%20como%20Funciona.md)  |  [⏭ Aprendendo Postman](https://github.com/pcfelias65-code/Automation/blob/Introdu%C3%A7%C3%A3o/1000%20-%20Aprendendo%20Postman.md)
+[🏡](https://github.com/pcfelias65-code/Automation/blob/Introdu%C3%A7%C3%A3o/README.md)
+  |  [🔙](https://github.com/pcfelias65-code/Automation/blob/Introdu%C3%A7%C3%A3o/README.md)
+  |  [⏩ O que é uma API e como funciona.](https://github.com/pcfelias65-code/Automation/blob/Introdu%C3%A7%C3%A3o/0001%20-%20O%20que%20%C3%A9%20uma%20API%20e%20como%20Funciona.md)
+  |  [⏭ Aprendendo Postman](https://github.com/pcfelias65-code/Automation/blob/Introdu%C3%A7%C3%A3o/1000%20-%20Aprendendo%20Postman.md)
