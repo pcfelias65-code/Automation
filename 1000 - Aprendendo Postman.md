@@ -10,4 +10,4 @@ Ele permite enviar requisições HTTP (GET, POST, PUT, DELETE, etc.), visualizar
 
 [Instalar o Postman](https://github.com/pcfelias65-code/Automation/blob/Introdu%C3%A7%C3%A3o/1001%20-%20Instalar%20o%20Postman.md)
 
-
+[Criar uma coleção para organizar APIs](https://github.com/pcfelias65-code/Automation/blob/Introdu%C3%A7%C3%A3o/1002%20-%20Criar%20uma%20cole%C3%A7%C3%A3o%20para%20organizar%20APIs.md)
