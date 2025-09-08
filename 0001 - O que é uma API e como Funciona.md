@@ -49,14 +49,17 @@ A API consultou a base de dados.
 Recebemos a resposta estruturada em JSON.
 
 # 3. Componentes Básicos de uma API 🧩
-Componente	Função	Exemplo
-Endpoint	Endereço onde o cliente acessa a API	/data/2.5/weather
-Método HTTP	Tipo de operação que será executada	GET, POST, PUT, DELETE
-Headers	Informações adicionais para autenticação e formato	Content-Type: application/json
-Parâmetros	Filtros ou dados extras enviados na URL	?q=São Paulo&lang=pt_br
-Request Body	Dados enviados no corpo da requisição (POST)	{ "nome": "Paulo" }
-Response	Retorno da API, normalmente em JSON	{ "status": "ok" }
-Status Code	Código numérico indicando sucesso ou erro	200, 401, 404, 500
+
+| **Componente**   | **Função**                                         | **Exemplo**                      |
+| ---------------- | -------------------------------------------------- | -------------------------------- |
+| **Endpoint**     | Endereço onde o cliente acessa a API               | `/data/2.5/weather`              |
+| **Método HTTP**  | Tipo de operação que será executada                | GET, POST, PUT, DELETE           |
+| **Headers**      | Informações adicionais para autenticação e formato | `Content-Type: application/json` |
+| **Parâmetros**   | Filtros ou dados extras enviados na URL            | `?q=São Paulo&lang=pt_br`        |
+| **Request Body** | Dados enviados no corpo da requisição (POST)       | `{ "nome": "Paulo" }`            |
+| **Response**     | Retorno da API, normalmente em JSON                | `{ "status": "ok" }`             |
+| **Status Code**  | Código numérico indicando sucesso ou erro          | `200`, `401`, `404`, `500`       |
+
 
 # 4. Tipos de APIs 🔄
 
